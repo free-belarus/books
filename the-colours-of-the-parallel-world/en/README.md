@@ -1,6 +1,6 @@
 # The Colours of the Parallel World
 
-![](../img/cover.png)
+![](./img/cover.png)
 
 ## Mikola Dziadok
 
@@ -10,7 +10,7 @@ Molotov Cocktails. During the investigation the charges were changed to the orga
 In November 2011 international human right organisations recognised Mikola a political prisoner. During his 5-year imprisonment he was transfered to several correctional facilities.
 He was released on August 22, 2015 by a Presidential decree of pardon. At the moment Mikola is astudent of European Humanities University (Vilnius), studying World politics and Economy, and a journalist of Belarusian social-political newspaper Novy Chas.
 
-![Mikola Dziadok](../img/author.jpg)
+![Mikola Dziadok](./img/author.jpg)
 
 # Author’s Blogs
 
@@ -30,29 +30,29 @@ He was released on August 22, 2015 by a Presidential decree of pardon. At the mo
 
 ## [About the Book](./0.md)
 
-«Цвета параллельного мира» — сборник рассказов бывшего беларуского политзаключенного Николая Дедка. Автор был арестован в 2010 году по обвинению в акциях прямого действия в Минске и провел в заключении пять лет. В сборнике представлено 16 рассказов и эссе, написанных в неволе и после выхода на свободу и повествующих о «многоцветных» ситуациях тюремной реальности — комичных и ужасающих, оптимистичных и мрачных.
+“Colors of a Parallel World” is a collection of stories by the former Belarusian political prisoner Nikolai Dedka. The author was arrested in 2010 on charges of direct action in Minsk and spent five years in prison. The collection contains 16 stories and essays, written in captivity and after release, and narrating about the “multicolored” situations of prison reality — comic and terrifying, optimistic and gloomy.
 
-Будучи убежденным анархистом, автор сопровождает свои наблюдения размышлениями о политической составляющей увиденного и анализом механизмов контроля в карательной системе и обществе в целом.
+Being a convinced anarchist, the author accompanies his observations with reflections on the political component of what he saw and an analysis of control mechanisms in the punitive system and society as a whole.
 
-[About the book](./0.md)
+[**About the book**](./0.md)
 
 # Table of Contents
 
-# [Вступление](./1.md)
-- [Список сокращений и жаргонизмов](./2.md)
-- [ШИЗО](./3.md)
-- [Опер](./4.md)
-- [Режим](./5.md)
-- [Неприкасаемые в тюремной иерархии](./6.md)
-- [Запах](./7.md)
-- [Бунт против божественной иерархии в древнегреческой мифологии](./8.md)
-- [Божья кара](./9.md)
-- [Бунт в карантине](./10.md)
-- [Маугли](./11.md)
-- [Улетевшие](./12.md)
-- [Колдун](./13.md)
-- [Жизнь прекрасна](./14.md)
-- [Открытое письмо](./15.md)
-- [Крайняя мера](./16.md)
-- [Освобождение](./17.md)
-- [Заключение](./18.md)
+# [Introduction](./1.md)
+- [Glossary](./2.md)
+- [The De-Seg](./3.md)
+- [The Operative](./4.md)
+- [The Security](./5.md)
+- [The Untouchables in the Prison Hierarchy](./6.md)
+- [The Smell](./7.md)
+- [Rebellions Against the Divine Hierarchy](./8.md)
+- [The Divine Retribution](./9.md)
+- [A Riot in the Prison Quarantine](./10.md)
+- [Mowgli](./11.md)
+- [The Spaced-Out](./12.md)
+- [The Wizard](./13.md)
+- [Life is Beautiful](./14.md)
+- [An Open Letter](./15.md)
+- [The Last Resort](./16.md)
+- [The Release](./17.md)
+- [Afterword](./18.md)

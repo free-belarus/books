@@ -6,14 +6,14 @@
 
 # О Лукашенко
 
-- [Случайный президент (Светлана Калинкина, Павел Шеремет)](./haphazard-president)
-- [Пять избирательных кампаний Лукашенко (Александр Федута)](./5-election-campaigns-of-lukashenko)
+- [**Случайный президент** (Светлана Калинкина, Павел Шеремет)](./haphazard-president)
+- [**Пять избирательных кампаний Лукашенко** (Александр Федута)](./5-election-campaigns-of-lukashenko)
 
 # О белорусских тюрьмах
 
-- [Еду в Магадан (Игорь Олиневич)](./going-to-magadan)
-- [Цвета параллельного мира (Николай Дедок)](./the-colours-of-the-parallel-world/ru) или она же на белорусском: [Фарбы паралельнага свету (Мікола Дзядок)](./the-colours-of-the-parallel-world/by) или на английском: [The Colours of the Parallel World by Mikola Dziadok](./the-colours-of-the-parallel-world/en)
-- [Случайный президент (Светлана Калинкина, Павел Шеремет): 4-ая глава](./haphazard-president/4.md)
+- [**Еду в Магадан** (Игорь Олиневич)](./going-to-magadan)
+- [**Цвета параллельного мира** (Николай Дедок)](./the-colours-of-the-parallel-world/ru), на белорусском: [Фарбы паралельнага свету (Мікола Дзядок)](./the-colours-of-the-parallel-world/by), на английском: [The Colours of the Parallel World by Mikola Dziadok](./the-colours-of-the-parallel-world/en)
+- [**Случайный президент** (Светлана Калинкина, Павел Шеремет): 4-ая глава](./haphazard-president/4.md)
 
 
 # Планируемые книги
