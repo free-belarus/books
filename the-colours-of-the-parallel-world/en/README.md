@@ -1,6 +1,6 @@
 # The Colours of the Parallel World
 
-![](img/cover.png)
+![](../img/cover.png)
 
 ## Mikola Dziadok
 
@@ -10,7 +10,7 @@ Molotov Cocktails. During the investigation the charges were changed to the orga
 In November 2011 international human right organisations recognised Mikola a political prisoner. During his 5-year imprisonment he was transfered to several correctional facilities.
 He was released on August 22, 2015 by a Presidential decree of pardon. At the moment Mikola is astudent of European Humanities University (Vilnius), studying World politics and Economy, and a journalist of Belarusian social-political newspaper Novy Chas.
 
-![Mikola Dziadok](img/author.jpg)
+![Mikola Dziadok](../img/author.jpg)
 
 # Author’s Blogs
 
