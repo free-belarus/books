@@ -20,6 +20,9 @@
     + на английском: [**The Colours of the Parallel World** by Mikola Dziadok](./the-colours-of-the-parallel-world/en)
 + [**Случайный президент** (Светлана Калинкина, Павел Шеремет): 4-ая глава](./haphazard-president/4.md)
 
+# Иное
+
+- [**Моя жизнь. Крушение и воскрешение СССР** (Станислав Шушкевич)](./ussr-collapse-n-resurrection)
 
 # Планируемые книги
 
